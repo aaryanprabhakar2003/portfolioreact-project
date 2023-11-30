@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Preview:  https://precious-taiyaki-832082.netlify.app/
+Live Preview:  https://2110990018portfolio.netlify.app/
 
 ## Available Scripts
 
